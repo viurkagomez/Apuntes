@@ -1,9 +1,13 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
+
+"La constancia Hace al maestro"
 <<<<<<< HEAD
 Tenemos que aprender sobre el internet de las cosas 
 =======
 
-"La constancia Hace al maestro"
->>>>>>> 5f34ee222b6aec603dcdafc44143d3b94bf90534
+
+
+
+
